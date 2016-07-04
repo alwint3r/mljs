@@ -16,7 +16,7 @@ const distance = {
             result += Math.pow(anotherPoint[i] - onePoint[i], 2);
         }
 
-        return result;
+        return Math.sqrt(result);
     }
 }
 
