@@ -9,6 +9,7 @@ I do not include the datasets here. You should create the `datasets` directory b
 
 ## Implemented Algorithm
 * K-Nearest Neighbor using euclidean distance.
+* K-Nearest Neighbor using manhattan distance.
 
 ## License
 
